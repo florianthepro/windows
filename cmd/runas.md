@@ -2,7 +2,7 @@
 runas /user:Administrator "cmd.exe /k"
 ```
 ```
-runas /user:Administrator "cmd.exe /c appwiz.cpl"
+runas /user:.\Administrator "cmd.exe /c start appwiz.cpl"
 ```
 - <`user`>: `user`/`domain\user`/`.\user` (lokales Konto)/`computer\user`
 - <`Administrator`>: `Administrator`/`Name` (Kontoname)
