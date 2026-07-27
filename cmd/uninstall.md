@@ -52,5 +52,7 @@ Uninstall gestartet: Mozilla Firefox (x64 de)
 
 
 
-1. name bei suche abgeschnitten bzw beim programm 2. uninstall sollte sauber mit runas admin sein 3. gebe als ps1 befehl
+1. name bei suche abgeschnitten bzw beim programm
+2. uninstall sollte sauber mit runas admin sein
+3. gebe als einzeiligen ps befehl
 ```
