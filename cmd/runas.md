@@ -8,4 +8,4 @@ runas /user:Administrator "appwiz.cpl /k"
 - `<Administrator>`: `Administrator`/`Name` (Kontoname)
 - `<cmd.exe>`: `cmd.exe`/`appwiz.cpl`/`Programm` (Beispielprogramm)
 - `<k>`: `/k`/`/c`/`/s`/`/d` (als Argument für `cmd.exe`)
-- - w
+> w
