@@ -51,7 +51,8 @@ NOTE:  /savecred ist mit /smartcard nicht kompatibel.
 Uninstall gestartet: Mozilla Firefox (x64 de)
 ```
 
-beachte
+beachte:
+nur 1 zusätzliche md (answer.md) dem repo beifügen
 1. name bei suche abgeschnitten bzw beim programm
 2. uninstall sollte sauber mit runas admin sein
 3. erzeuge answer.md die einen einzeiligen ps befehl enthält der das umsetzt
